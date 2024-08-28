@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-27T19:03:42 IST" name="Default suite" finished-at="2024-08-27T19:04:42 IST" duration-ms="60771">
+    <groups>
+    </groups>
+    <test started-at="2024-08-27T19:03:42 IST" name="Default test" finished-at="2024-08-27T19:04:42 IST" duration-ms="60771">
+      <class name="TestClasses.loginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestClasses.loginTest@38467116]" started-at="2024-08-27T19:03:42 IST" name="setup" finished-at="2024-08-27T19:03:48 IST" duration-ms="6725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TCMOfferZone()[pri:0, instance:TestClasses.loginTest@38467116]" started-at="2024-08-27T19:03:48 IST" name="TCMOfferZone" finished-at="2024-08-27T19:03:50 IST" duration-ms="1537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TCMOfferZone -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestClasses.loginTest@38467116]" started-at="2024-08-27T19:03:50 IST" name="teardown" finished-at="2024-08-27T19:03:53 IST" duration-ms="3211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestClasses.loginTest@38467116]" started-at="2024-08-27T19:03:53 IST" name="setup" finished-at="2024-08-27T19:03:56 IST" duration-ms="3184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TClogoImageFlipkartIsDisplayed()[pri:0, instance:TestClasses.loginTest@38467116]" started-at="2024-08-27T19:03:56 IST" name="TClogoImageFlipkartIsDisplayed" finished-at="2024-08-27T19:03:59 IST" duration-ms="3047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TClogoImageFlipkartIsDisplayed -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestClasses.loginTest@38467116]" started-at="2024-08-27T19:03:59 IST" name="teardown" finished-at="2024-08-27T19:04:03 IST" duration-ms="3225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestClasses.loginTest@38467116]" started-at="2024-08-27T19:04:03 IST" name="setup" finished-at="2024-08-27T19:04:06 IST" duration-ms="2915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TClogoImageFlipkartWidth()[pri:0, instance:TestClasses.loginTest@38467116]" started-at="2024-08-27T19:04:06 IST" name="TClogoImageFlipkartWidth" finished-at="2024-08-27T19:04:09 IST" duration-ms="3050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TClogoImageFlipkartWidth -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestClasses.loginTest@38467116]" started-at="2024-08-27T19:04:09 IST" name="teardown" finished-at="2024-08-27T19:04:12 IST" duration-ms="3200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestClasses.loginTest@38467116]" started-at="2024-08-27T19:04:12 IST" name="setup" finished-at="2024-08-27T19:04:16 IST" duration-ms="4130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TClogoImagePlusIsDispalyed()[pri:0, instance:TestClasses.loginTest@38467116]" started-at="2024-08-27T19:04:16 IST" name="TClogoImagePlusIsDispalyed" finished-at="2024-08-27T19:04:19 IST" duration-ms="3069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TClogoImagePlusIsDispalyed -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestClasses.loginTest@38467116]" started-at="2024-08-27T19:04:19 IST" name="teardown" finished-at="2024-08-27T19:04:22 IST" duration-ms="3233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestClasses.loginTest@38467116]" started-at="2024-08-27T19:04:22 IST" name="setup" finished-at="2024-08-27T19:04:27 IST" duration-ms="4510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TClogoImagePlusWidth()[pri:0, instance:TestClasses.loginTest@38467116]" started-at="2024-08-27T19:04:27 IST" name="TClogoImagePlusWidth" finished-at="2024-08-27T19:04:30 IST" duration-ms="3056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TClogoImagePlusWidth -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestClasses.loginTest@38467116]" started-at="2024-08-27T19:04:30 IST" name="teardown" finished-at="2024-08-27T19:04:33 IST" duration-ms="3213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestClasses.loginTest@38467116]" started-at="2024-08-27T19:04:33 IST" name="setup" finished-at="2024-08-27T19:04:36 IST" duration-ms="3144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TClogoTextPlus()[pri:0, instance:TestClasses.loginTest@38467116]" started-at="2024-08-27T19:04:36 IST" name="TClogoTextPlus" finished-at="2024-08-27T19:04:39 IST" duration-ms="3056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TClogoTextPlus -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestClasses.loginTest@38467116]" started-at="2024-08-27T19:04:39 IST" name="teardown" finished-at="2024-08-27T19:04:42 IST" duration-ms="3186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestClasses.loginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
